@@ -8,8 +8,7 @@ var appRouter = function(app) {
   app.get('/account', function(req, res) {
     var accountMock = {
       "username": "bbaker",
-      "password": "washboard",
-      "twitter": "@bbaker"
+      "password": "washboard"
     };
 
     if (!req.query.username) {
@@ -22,7 +21,7 @@ var appRouter = function(app) {
   });
 
   app.post('/account', function(req, res) {
-    if (!req.body.username || !req.body.password || !req.body.twitter) {
+    if (!req.body.username || !req.body.password) {
       return res.send({ "status": "error", "message": "missing a parameter" });
     } else {
       return res.send(req.body);
