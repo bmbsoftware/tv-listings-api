@@ -58,8 +58,9 @@ router.get('/xml', function (req, res) {
 });
 
 router.get('/xml/tvlistings/:days', function (req, res) {
+	var data = xml(getListings(req.params.days || 1).listings, { indent: '  ', declaration: true });
 	res.set('Content-Type', 'text/xml');
-	res.send(xml(getListings(req.params.days || 1).listings));
+	res.send(data);
 });
 
 
