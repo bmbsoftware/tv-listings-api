@@ -1,0 +1,26 @@
+{
+  "name": "pi-api",
+  "version": "1.0.0",
+  "description": "\"Simple API server for raspberry pi\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --progress --colors"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bmbsoftware/pi-api.git"
+  },
+  "author": "Brian Baker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bmbsoftware/pi-api/issues"
+  },
+  "homepage": "https://github.com/bmbsoftware/pi-api#readme",
+  "dependencies": {
+    "body-parser": "^1.16.0",
+    "cors": "^2.8.1",
+    "express": "^4.14.1",
+    "superagent": "^3.4.1"
+  }
+}
