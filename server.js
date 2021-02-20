@@ -63,12 +63,6 @@ router.get('/xml/tvlistings/:days', function (req, res) {
 	res.send(data);
 });
 
-router.get('/xml/guide', async function (req, res) {
-	const xmltv = fs.readFileSync('./data/tvlistings.xmltv', 'utf8');
-	res.set('Content-Type', 'text/xml');
-	res.send(xmltv);
-});
-
 app.use('/api', router);
 
 app.listen(port);
