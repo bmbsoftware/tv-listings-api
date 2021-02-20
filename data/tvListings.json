@@ -1288,7 +1288,47 @@
 							]
 						}
 					]
+				},
+
+				{
+					"programme": [
+						{
+							"_attr": {
+								"start": "",
+								"stop": "",
+								"channel": "starnberg.live.cam"
+							}
+						},
+						{
+							"title": [
+								{"_attr": { "lang": "de" }},
+								"Münsing - Starnberger See - Wasserwacht Ammerland"
+							]
+						},
+						{
+							"date": "2021"
+						},
+						{
+							"desc": [
+								{"_attr": { "lang": "de" }},
+								"Die HD Live Webcam steht in Ammerland am Starnberger See im oberbayrischen Landkreis Bad Tölz-Wolfratshausen. Ammerland liegt etwa mittig am Ostufer des Starnberger Sees und ist ein Ortsteil der Gemeinde Münsing. Herzlichen Dank an die Wasserwacht Ammerland."
+							]
+						},
+						{
+							"category": [
+								{"_attr": { "lang": "de" }},
+								"Documentation"
+							]
+						},
+						{
+							"category": [
+								{"_attr": { "lang": "de" }},
+								"Realität"
+							]
+						}
+					]
 				}
+
 			]
 		}
 	]
