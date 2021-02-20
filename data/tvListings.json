@@ -360,6 +360,162 @@
 							"_attr": {
 								"start": "",
 								"stop": "",
+								"channel": "muenchen-hauptbahnhof.live.cam"
+							}
+						},
+						{
+							"title": [
+								{"_attr": { "lang": "de" }},
+								"München Live Cam - Hauptbahnhof"
+							]
+						},
+						{
+							"date": "2019"
+						},
+						{
+							"desc": [
+								{"_attr": { "lang": "de" }},
+								"Diese HD Live Webcam steht auf dem BR-Funkhaus in München an der Arnulfstraße und blickt auf einen der meistbefahrenen Bahnhöfen Deutschlands: den Münchner Hauptbahnhof. Der zentrale Standort der Panoramakamera zeigt München vor allem von seiner geschäftigen Seite mit vielen Gewerbeflächen und der dichten Bebauung der Landeshauptstadt.  Doch München wäre nicht die Stadt mit der höchsten Lebensqualität in Deutschland, wenn sie nicht mehr zu bieten hätte als stickige Großstadtluft und Enge. Denn gerade der Hauptbahnhof symbolisiert Münchens Vernetzung mit weitaus idyllischeren Orten. Neben Oktoberfest, Kaufingerstraße, Marienplatz und Viktualienmarkt, die mit den lokalen Verkehrsmitteln bequem zu erreichen sind, befinden sich auch der kilometerlange Isarstrand und der Englische Garten öffentlich nur wenige Minuten entfernt. Mit der 'Bayrischen Oberlandbahn' oder kurz: 'BOB' flüchten  Münchnerinnen und Münchner aus dem Alltagsstress in die 'Münchner Hausberge', beispielsweise den Schliersberg, der nur wenige Kilometer entfernt liegt. Auch Städte außerhalb von Deutschland sind mit dem Münchner Hauptbahnhof verbunden."
+							]
+						},
+						{
+							"category": [
+								{"_attr": { "lang": "de" }},
+								"Documentation"
+							]
+						},
+						{
+							"category": [
+								{"_attr": { "lang": "de" }},
+								"Realität"
+							]
+						}
+					]
+				},
+
+				{
+					"programme": [
+						{
+							"_attr": {
+								"start": "",
+								"stop": "",
+								"channel": "nuremberg-plarrer.live.cam"
+							}
+						},
+						{
+							"title": [
+								{"_attr": { "lang": "de" }},
+								"Nürnberg Live Cam - Plärrer - Staatstheater"
+							]
+						},
+						{
+							"date": "2019"
+						},
+						{
+							"desc": [
+								{"_attr": { "lang": "de" }},
+								"Die HD Live Webcam steht am Plärrer in Nürnberg. Der Platz wurde im Mittelalter als Marktplatz genutzt und ist heute ein wichtiger Verkehrsknotenpunkt in Nürnberg. Der Panoramablick zeigt den südwestlich vor der Stadtmauer gelegenen Plärrer, das Gebäude des Staatstheaters Nürnberg am Richard-Wagner-Platz, das Nicolaus Copernicus Planetarium sowie eine Sicht auf Nürnbergs historische Altstadt. Ebenfalls gut erkennbar sind Spittlertorturm und die St. Elisabethkirche."
+							]
+						},
+						{
+							"category": [
+								{"_attr": { "lang": "de" }},
+								"Documentation"
+							]
+						},
+						{
+							"category": [
+								{"_attr": { "lang": "de" }},
+								"Realität"
+							]
+						}
+					]
+				},
+
+				{
+					"programme": [
+						{
+							"_attr": {
+								"start": "",
+								"stop": "",
+								"channel": "oberwesel.live.cam"
+							}
+						},
+						{
+							"title": [
+								{"_attr": { "lang": "de" }},
+								"Schönburg am Rhein - Oberwesel"
+							]
+						},
+						{
+							"date": "2019"
+						},
+						{
+							"desc": [
+								{"_attr": { "lang": "de" }},
+								"Die HD Live Webcam steht auf der Schönburg am Rhein. Die mittelalterliche Burganlage befindet sich in der Verbandsgemeinde Sankt Goar-Oberwesel im Rhein-Hunsrück-Kreis in Rheinland-Pfalz. Die Höhenburg trohnt hoch über dem Rhein und zählt zum Ensemble UNESCO-Welterbe Oberes Mittelrheintal."
+							]
+						},
+						{
+							"category": [
+								{"_attr": { "lang": "de" }},
+								"Documentation"
+							]
+						},
+						{
+							"category": [
+								{"_attr": { "lang": "de" }},
+								"Realität"
+							]
+						}
+					]
+				},
+
+				{
+					"programme": [
+						{
+							"_attr": {
+								"start": "",
+								"stop": "",
+								"channel": "oberstdorf.live.cam"
+							}
+						},
+						{
+							"title": [
+								{"_attr": { "lang": "de" }},
+								"Oberstdorf im Allgäu - Schattenberg-Schanze"
+							]
+						},
+						{
+							"date": "2019"
+						},
+						{
+							"desc": [
+								{"_attr": { "lang": "de" }},
+								"Die HD Live Webcam steht auf der Schattenberg Schanze am Ortsrand von Oberstdorf im Allgäu. Die Anlage ist bekannt als Austragungsort der Vierschanzen-Tournee jedes Jahr am 29. oder. 30. Dezember. Der Panoramablick zeigt ganzjährig die Schönheiten der Allgäuer Bergwelt und vermittelt einen Eindruck vom jeweiligen Wetter im Ällgau. Ob im Winter oder Sommer, mit oder ohne Skizirkus - die Oberstdorf Schanze ist zu jeder Jahreszeit einen Besuch wert!"
+							]
+						},
+						{
+							"category": [
+								{"_attr": { "lang": "de" }},
+								"Documentation"
+							]
+						},
+						{
+							"category": [
+								{"_attr": { "lang": "de" }},
+								"Realität"
+							]
+						}
+					]
+				},
+
+				{
+					"programme": [
+						{
+							"_attr": {
+								"start": "",
+								"stop": "",
 								"channel": "salzburg.live.cam"
 							}
 						},
