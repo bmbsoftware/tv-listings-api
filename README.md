@@ -10,5 +10,7 @@ There is a single endpoint exposed from the API:
 
 The information in the `tvListings.json` file will be parsed, and the program information will be returned for the number of days requested.
 
+![screenshot](https://github.com/bmbsoftware/tv-listings-api/blob/c08ffa8c0c845506d09d428963baad139d59d257/images/listings.png)
+
 ## Docker
 An included Dockerfile will allow easy setup and running of the API. The container image can easily be combined with other containers in a Docker Compose setup to provide a robust streaming TV solution.
