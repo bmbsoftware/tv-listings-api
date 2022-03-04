@@ -1,0 +1,68 @@
+{
+	"listings": [
+		{
+			"tv": [
+				{
+					"_attr": {
+						"generator-info-name": "<Your Name>",
+						"generator-info-url": "<http://your_name.me>"
+					}
+				},
+				{
+					"programme": [
+						{
+							"_attr": {
+								"start": "",
+								"stop": "",
+								"channel": "<identifier_for_channel>"
+							}
+						},
+						{
+							"title": [
+								{
+									"_attr": {
+										"lang": "en"
+									}
+								},
+								"<Channel Title>"
+							]
+						},
+						{
+							"date": "2018"
+						},
+						{
+							"desc": [
+								{
+									"_attr": {
+										"lang": "de"
+									}
+								},
+								"<Description of the program to show in the guide>"
+							]
+						},
+						{
+							"category": [
+								{
+									"_attr": {
+										"lang": "en"
+									}
+								},
+								"Documentary"
+							]
+						},
+						{
+							"category": [
+								{
+									"_attr": {
+										"lang": "en"
+									}
+								},
+								"Reality"
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}
