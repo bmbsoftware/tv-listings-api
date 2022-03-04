@@ -1,7 +1,7 @@
 var request = require('superagent');
 
 var appRouter = function(app) {
-  app.post('/xml', function(req, res) {
+  app.get('/xml', function(req, res) {
     if(!req.body.url) {
       return res.send({ "status": "error", "message": "missing url" });
     } else {
